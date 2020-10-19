@@ -1,2 +1,2 @@
-# sharifkhan.git.io
+# sharifkhan.github.io
 Pacewisdom test
